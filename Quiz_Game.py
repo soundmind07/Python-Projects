@@ -1,3 +1,9 @@
+"""
+Project Learnings:-
+1- used if else statements to decide which block has to be executed based upon decision.
+"""
+
+
 print("Welcome to my quiz game ! ")
 playing=input("Do u want to play ? ")
 if playing.lower()!="yes":
