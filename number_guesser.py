@@ -1,3 +1,12 @@
+"""
+Project Learnings:-
+1- used random module of python
+2- used if else statements to decide which block has to be executed based upon decision
+3- used while loop to repeat a certain set of task continuosly till the requirement is not satisfied.
+
+"""
+
+
 import random
 top_of_range=input("Tyoe a number: ")
 
@@ -33,5 +42,7 @@ while True:
             print("You were below the number! ")
 
 print("You got it in", guesses,"guesses")
+
+
 
 
