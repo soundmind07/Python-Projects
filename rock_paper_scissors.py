@@ -1,3 +1,13 @@
+"""
+Project Learnings:-
+1- used if else statements to decide which block has to be executed based upon decision.
+2- used list data structure
+3- used while loop along with break and continue statements.
+"""
+
+
+
+
 import random
 
 user_wins=0
